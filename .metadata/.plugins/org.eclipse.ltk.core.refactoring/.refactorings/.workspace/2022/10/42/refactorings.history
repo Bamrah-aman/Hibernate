@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;hb-05-one-to-many&apos; to &apos;hb-05-many-to-many&apos;&#x0D;&#x0A;- Original element: &apos;hb-05-one-to-many&apos;&#x0D;&#x0A;- Renamed element: &apos;hb-05-one-to-many&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;hb-05-one-to-many&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=hb-05-one-to-many" name="hb-05-many-to-many" references="true" stamp="1665845537027" version="1.0"/>
+</session>
